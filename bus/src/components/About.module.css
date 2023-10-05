@@ -1,0 +1,57 @@
+#hero .container {
+    text-align: center;
+  }
+
+#hero .carousel-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 0;
+    top: 70px;
+    left: 50px;
+    right: 50px;
+  }
+
+  .row.second-row {
+    margin-top: 40px;
+  }
+  .well-middle .single-well {
+    margin-top: 30px;
+  }  
+
+  .single-well p {
+    color: #444;
+  }
+
+  .single-well ul li i {
+    color: #3EC1D5;
+    margin-right: 5px;
+    font-size: 18px;
+  }
+
+  
+.single-well>a {
+    display: block;
+  }
+
+  .single-well ul li {
+    color: #444;
+    display: block;
+    padding: 5px 0;
+  }
+
+.sec-head {
+    display: inline-block;
+    font-size: 17px;
+    font-weight: 600;
+    margin-bottom: 0;
+    padding: 0 0 10px;
+    text-transform: uppercase;
+    transition: all 0.4s ease 0s;
+  }
+  
+
+
+
+ 

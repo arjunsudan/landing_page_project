@@ -1,0 +1,23 @@
+.contact-area {
+    height: auto;
+    width: 100%;
+  }
+
+  .row.second-row {
+    margin-top: 40px;
+  }
+
+  .single-icon p {
+    font-size: 16px;
+    line-height: 30px;
+  }
+
+  .single-icon i {
+    font-size: 32px;
+    width: 50px;
+    height: 50px;
+    line-height: 56px;
+    border-radius: 50%;
+    margin-bottom: 30px;
+    color: #3ec1d5;
+  }
